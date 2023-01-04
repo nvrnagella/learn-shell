@@ -3,5 +3,6 @@ class=devops
 echo trainer name - $trainer
 echo class name - ${class}
 
-DATE=04-01-2023
+#DATE=04-01-2023
+DATE=$(date +%F)
 echo Hey, today date is $DATE
