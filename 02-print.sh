@@ -15,3 +15,8 @@ echo -e "\e[33mMESSAGE\e[0m"
 echo -e "\e[34mMESSAGE\e[0m"
 echo -e "\e[35mMESSAGE\e[0m"
 echo -e "\e[36mMESSAGE\e[0m"
+
+trainer=raghu
+class=devops
+echo trainer name - $trainer
+echo class name - ${class}
