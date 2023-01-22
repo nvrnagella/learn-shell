@@ -18,4 +18,4 @@ echo -e "\e[36mMESSAGE\e[0m"
 
 #https://misc.flogisoft.com/bash/tip_colors_and_formatting
 
-echo -e "\e[5mBlink"
+echo -e "Normal \e[5mBlink"
