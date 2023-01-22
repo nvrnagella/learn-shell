@@ -20,4 +20,4 @@ echo -e "\e[36mMESSAGE\e[0m"
 
 echo -e "Normal \e[5mBlink\e[0m"
 echo -e "Normal \e[4mUnderlined\e[0m"
-echo -e "Normal \e[4don't do underline\e[0m"
+echo -e "Normal \e[4mdon't do underline\e[0m"
