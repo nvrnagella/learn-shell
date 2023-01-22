@@ -12,3 +12,5 @@ echo add - $ADD
 
 # variable from command line
 echo b - $b
+
+echo ${trainer}
