@@ -9,7 +9,7 @@ fi
 stringa=stringstore
 if test -z "$stringa"
 then
-  echo "the $stringa is empty"
+  echo "the stringa is empty"
 else
-  echo "the $stringa is not empty"
+  echo "the stringa  not empty"
 fi
