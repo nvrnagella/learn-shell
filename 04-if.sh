@@ -5,3 +5,11 @@ then
 else
 	echo a is not 10
 fi
+
+stringa=stringstore
+if test -z"$stringa"
+then
+  echo "the string is empty"
+else
+  echo "the string is not empty"
+fi
