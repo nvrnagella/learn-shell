@@ -24,3 +24,5 @@ echo -e "Normal \e[4mdon't do underline\e[0m"
 echo -e "Normal \e[5mBlink \e[25mNormal"
 #how to print two lines in echo command
 echo -e "line1\nline2"
+#we saw new line now will see tabs
+echo -e "word now \t this is after tab"
