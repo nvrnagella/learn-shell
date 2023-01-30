@@ -22,3 +22,5 @@ echo -e "Normal \e[5mBlink\e[0m"
 echo -e "Normal \e[4mUnderlined\e[0m"
 echo -e "Normal \e[4mdon't do underline\e[0m"
 echo -e "Normal \e[5mBlink \e[25mNormal"
+#how to print two lines in echo command
+echo -e "line1\nline2"
