@@ -5,7 +5,12 @@
 # how to declare a function
 example() {
   echo i am a example function
+  echo a - $a
+  b=20
 }
 
 # how to call a function by using function name
+a=10
 example
+echo b - $b
+
